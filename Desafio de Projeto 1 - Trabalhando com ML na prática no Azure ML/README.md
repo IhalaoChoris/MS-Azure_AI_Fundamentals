@@ -53,9 +53,9 @@ Neste projeto, utilizamos o aprendizado por regressão linear para prever a dema
 -
 
 -   **Gráfico:**  Previsão da demanda de bicicletas vs. demanda real
-		<img src="/azure/predict_true.png">
+		<img src="/Imagens/predict_true.png">
 -   **Histograma:**  Diferença entre a demanda prevista e a real
-		<img src="/azure/residuals.png">
+		<img src="/Imagens/residuals.png">
 -   **Teste e implatação:**
     Input:
     ```javascript
