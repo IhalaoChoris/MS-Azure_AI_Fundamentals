@@ -31,37 +31,37 @@ Este projeto demonstra a análise de imagens usando o Azure Vision. As funções
 
 **Detecção e reconhecimento de faces em imagens:**
 
-Detecção de rosto: <img src="/imagens/face_detection.png">
+Detecção de rosto: <img src="/Imagens/face_detection.png">
 
 **Extração de texto de imagens:**
 
-OCR:  <img src="/imagens/OCR.png">
+OCR:  <img src="/Imagens/OCR.png">
 
 **Identificação de objetos e cenas em imagens:**
 
 **Imagem 1:**
 
-Identificação de objetos e cenas 1:  <img src="/imagens/image_caption_1.png">
+Identificação de objetos e cenas 1:  <img src="/Imagens/image_caption_1.png">
 
 **Imagem 2:**
 
-Identificação de objetos e cenas 2:  <img src="/imagens/image_caption_2.png">
+Identificação de objetos e cenas 2:  <img src="/Imagens/image_caption_2.png">
 
 **Imagem 3:**
 
-Identificação de objetos e cenas 3:  <img src="/imagens/image_caption_3.png">
+Identificação de objetos e cenas 3:  <img src="/Imagens/image_caption_3.png">
 
 **Observação:** É importante destacar que a IA detecta uma garota na primeira cena, quando na verdade é um garoto.
 
 **Geração de legendas descritivas para imagens:**
 
-Legenda de imagem: <img src="/imagens/image_tagging.png">
+Legenda de imagem: <img src="/Imagens/image_tagging.png">
 
 **Observação:** Perceba que nenhuma das legendas da IA descreveu a cena como contendo um garoto ou criança.
 
 **Geração de legendas detalhadas e completas para imagens:**
 
-Legenda densa:  <img src="/imagens/dense_captioning.png">
+Legenda densa:  <img src="/Imagens/dense_captioning.png">
 
 
 **Conclusões**
