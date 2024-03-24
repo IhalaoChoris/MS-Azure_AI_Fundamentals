@@ -41,15 +41,15 @@ OCR:  <img src="/Imagens/OCR.png">
 
 **Imagem 1:**
 
-Identificação de objetos e cenas 1:  <img src="/Imagens/image_caption_1.png">
+Identificação de objetos e cenas 1:  <img src="/Imagens/image_captioning_1.png">
 
 **Imagem 2:**
 
-Identificação de objetos e cenas 2:  <img src="/Imagens/image_caption_2.png">
+Identificação de objetos e cenas 2:  <img src="/Imagens/image_captioning_2.png">
 
 **Imagem 3:**
 
-Identificação de objetos e cenas 3:  <img src="/Imagens/image_caption_3.png">
+Identificação de objetos e cenas 3:  <img src="/Imagens/image_captioning_3.png">
 
 **Observação:** É importante destacar que a IA detecta uma garota na primeira cena, quando na verdade é um garoto.
 
