@@ -1,3 +1,5 @@
+
+
 # Explorando o Potencial do Language Studio e Speech Studio da Azure
 
 **Subtítulo:** Uma análise prática com base em estudos de caso
@@ -20,19 +22,27 @@ Este estudo explora o potencial do Language Studio e Speech Studio da Azure atra
 **Imagens:**
 
 -   **Texto 1:**
-    -   **Imagem:** <img src="/Imagens/first_text.png"> 
+    -   **Imagem:** 
+    - <img src="/Imagens/first_text.png"> 
 -   **Análise da primeira sentença do texto 1:**
-    -   **Imagem:**  <img src="/Imagens/first_text_sentence1.png">
+    -   **Imagem:**  
+    - <img src="/Imagens/first_text_sentence1.png">
 -   **Análise da segunda sentença do texto 1:**
-    -   **Imagem:** <img src="/Imagens/first_text_sentence2.png"> 
+    -   **Imagem:** 
+    - <img src="/Imagens/first_text_sentence2.png"> 
 -   **Análise da terceira sentença do texto 1:**
-    -   **Imagem:**  <img src="/Imagens/first_text_sentence3.png">
+    -   **Imagem:**  
+    - <img src="/Imagens/first_text_sentence3.png">
 -   **Texto 2 completo, analisado e seu overall de acordo com a IA:**
-    -   **Imagem:**  <img src="/Imagens/full_second_text_analysis.png">
-    -   **Imagem:**  <img src="/Imagens/second_text_overall.png">
+    -   **Imagem:** 
+    - <img src="/Imagens/full_second_text_analysis.png">
+    -   **Imagem:**  
+    - <img src="/Imagens/second_text_overall.png">
 -   **Texto 3 completo, analisado e seu overall de acordo com a IA:**
-    -   **Imagem:**  <img src="/Imagens/third_text_analysis.png">
-    -   **Imagem:**  <img src="/Imagens/third_text_overall.png">
+    -   **Imagem:**  
+    - <img src="/Imagens/third_text_analysis.png">
+    -   **Imagem:**  
+    - <img src="/Imagens/third_text_overall.png">
 
 **Texto:**
 
@@ -54,7 +64,7 @@ Este estudo explora o potencial do Language Studio e Speech Studio da Azure atra
 
 **Imagem:**
 
--   **Imagem:** <img src="/Imagens/speech_to_text.png"> 
+<img src="/Imagens/speech_to_text.png"> 
 
 **Texto:**
 
